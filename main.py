@@ -1,6 +1,6 @@
 """Fake News Propagation and Platform Moderation.
 
-This beginner-friendly project has two independent parts:
+This project has two independent parts:
 1. a small game-theory model of a creator and a platform;
 2. a simplified simulation of how fake news can spread under moderation.
 
